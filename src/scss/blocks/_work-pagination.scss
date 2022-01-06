@@ -7,6 +7,10 @@
     flex-direction: column;
     justify-content: space-between;
 
+    &.no-prev {
+      justify-content: flex-end;
+    }
+
     @include media-query("md") {
       flex-direction: row;
     }

@@ -13,7 +13,7 @@
           {% if imageTitle %}
             <figcaption class="[ work-gallery__content ]">
               <h2 class="[ work-gallery__heading ] [ font-base text-400 ]">
-                {{ imageTitle }}
+                {{ imageTitle|safe }}
               </h2>
             </figcaption>
           {% endif %}

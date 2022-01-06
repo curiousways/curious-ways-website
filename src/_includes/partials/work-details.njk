@@ -6,9 +6,15 @@
 
   <div class="[ work-details ] [ wrapper ]">
 
-    <p class="[ work-details__intro ]">{{ workSummary }}</p>
+    {% if workQuote %}
+
+      <p class="[ work-details__intro ]">{{ workSummary|safe }}</p>
+
+    {% endif %}  
 
     <div class="[ work-details__about ]">
+
+    {% if workQuote %}
   
       <div class="[ work-details__quote ]">
   
@@ -17,6 +23,12 @@
         </blockqoute>
   
       </div>
+
+    {% else %}
+
+      <p class="[ work-details__intro ]">{{ workSummary|safe }}</p>
+
+    {% endif %}  
   
       <div class="[ work-details__services ]">
   
@@ -30,19 +42,22 @@
   
       </div>
   
-      <div class="[ work-details_company ]">
-        <div>
-          {{ workQuoteSource }}
+      {% if workQuote %}
+        <div class="[ work-details_company ]">
+          <div>
+            {{ workQuoteSource }}
+          </div>
         </div>
+      {% endif %}
   
-      </div>
-  
-      <div class="[ work-details__website ]">
-        {% set linkURL= workURL %}
-        {% set linkText = workWeb %}
-        {% set linkExtras = "target=_blank rel=noreferrer" %}
-        {% include "partials/link.njk" %}
-      </div>
+      {% if workURL %}
+        <div class="[ work-details__website ]">
+          {% set linkURL= workURL %}
+          {% set linkText = workWeb %}
+          {% set linkExtras = "target=_blank rel=noreferrer" %}
+          {% include "partials/link.njk" %}
+        </div>
+      {% endif %}
     
     </div>
 

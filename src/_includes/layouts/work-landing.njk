@@ -27,7 +27,7 @@
             {{ item.data.workTitle }}
           </h2>
           <p class="[ work-listing__summary ] [ measure-short ]">
-            {{ item.data.workSummary }}
+            {{ item.data.workSummary|safe }}
           </p>
         </figcaption>
         <div class="work-listing__link">

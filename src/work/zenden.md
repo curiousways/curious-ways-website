@@ -1,7 +1,7 @@
 ---
 title: "Zenden"
 metaDesc: "We helped this NY-based fintech start-up to get from concept to launch on a tight and immovable deadline."
-displayOrder: 1
+displayOrder: 9
 bodyClass: "theme--zenden"
 workTitle: "Zenden"
 workSummary: "We helped this NY-based fintech start-up to get from concept to launch on a tight and immovable deadline, delivering everything from brand strategy to sales decks in a little over ten weeks."
@@ -24,22 +24,18 @@ servicesList:
   - service: "UX Strategy"
   - service: "Website design & build"
 gallery:
-  - title: "Brand design"
-    imageRectangle: "v1614435865/cwys_website/zenden_portfolio_rectangle_v1_psknmh"
+  - imageRectangle: "v1614435865/cwys_website/zenden_portfolio_rectangle_v1_psknmh"
     imageSquare: "v1614435874/cwys_website/zenden_portfolio_square_v1_kitzps"
-  - title: "Illustration"
-    imageRectangle: "v1614435866/cwys_website/zenden_portfolio_rectangle_v2_blkqwh"
+  - imageRectangle: "v1614435866/cwys_website/zenden_portfolio_rectangle_v2_blkqwh"
     imageSquare: "v1614435879/cwys_website/zenden_portfolio_square_v3_w5vuvr"
-  - title: "Website design & build"
-    imageRectangle: "v1614435867/cwys_website/zenden_portfolio_rectangle_v3_xbckid"
+  - imageRectangle: "v1614435867/cwys_website/zenden_portfolio_rectangle_v3_xbckid"
     imageSquare: "v1614435885/cwys_website/zenden_portfolio_square_v4_az8oyu"
-  - title: "Illustration"
-    imageRectangle: "v1614435870/cwys_website/zenden_portfolio_rectangle_v4_bxkrye"
+  - imageRectangle: "v1614435870/cwys_website/zenden_portfolio_rectangle_v4_bxkrye"
     imageSquare: "v1614435893/cwys_website/zenden_portfolio_square_v5_cwbw94"
 paginationPrev:
-  - prevLink: "/work/reset/"
-    prevTitle: "Reset"
+  - prevLink: "/work/engenuiti/"
+    prevTitle: "Engenuiti"
 paginationNext:
-  - nextLink: "/work/notion/"
-    nextTitle: "Notion"
+  - nextLink: "/work/pickups/"
+    nextTitle: "Pickups"
 ---

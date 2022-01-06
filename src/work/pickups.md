@@ -1,7 +1,7 @@
 ---
 title: "Pickups"
 metaDesc: "We've supported this Brooklyn-based bootstrapped tech start-up from concept to capital raising."
-displayOrder: 5
+displayOrder: 10
 bodyClass: "theme--pickups"
 workTitle: "Pickups"
 workSummary: "We've supported this Brooklyn-based bootstrapped tech start-up from concept to capital raising, creating a stand-out brand with compelling messaging to drive interest from customers, partners and the Venture Capital community."
@@ -22,21 +22,17 @@ servicesList:
   - service: "UX/UI design"
   - service: "Website build"
 gallery:
-  - title: "Brand design"
-    imageRectangle: "v1614439290/cwys_website/Pickups_portfolio_rectangle_1_e8zrfp"
+  - imageRectangle: "v1614439290/cwys_website/Pickups_portfolio_rectangle_1_e8zrfp"
     imageSquare: "v1614439394/cwys_website/Pickups_portfolio_square_1_bxwsmq"
-  - title: "Website design & build"
-    imageRectangle: "v1614439313/cwys_website/Pickups_portfolio_rectangle_2_opvzr7"
+  - imageRectangle: "v1614439313/cwys_website/Pickups_portfolio_rectangle_2_opvzr7"
     imageSquare: "v1614439428/cwys_website/Pickups_portfolio_square_2_blor4r"
-  - title: "Print design"
-    imageRectangle: "v1614439338/cwys_website/Pickups_portfolio_rectangle_3_qejh2r"
+  - imageRectangle: "v1614439338/cwys_website/Pickups_portfolio_rectangle_3_qejh2r"
     imageSquare: "v1614439465/cwys_website/Pickups_portfolio_square_3_xzaswf"
-  - title: "Brand design"
-    imageRectangle: "v1614439365/cwys_website/Pickups_portfolio_rectangle_4_qjx5in"
+  - imageRectangle: "v1614439365/cwys_website/Pickups_portfolio_rectangle_4_qjx5in"
     imageSquare: "v1614439502/cwys_website/Pickups_portfolio_square_4_HERO_vjpb5l"
 paginationPrev:
-  - prevLink: "/work/engenuiti/"
-    prevTitle: "Engenuiti"
+  - prevLink: "/work/zenden/"
+    prevTitle: "Zenden"
 paginationNext:
   - nextLink: "/work/reset/"
     nextTitle: "Reset"

@@ -1,7 +1,11 @@
+{% if not paginationPrev %}
+  {% set paginationAlign = 'no-prev' %}
+{% endif %}
+
 <div class="[ panel ]">
   <div class="[ work-pagination ] [ wrapper ]">
 
-    <div class="work-pagination__items">
+    <div class="work-pagination__items {{ paginationAlign }}">
 
       {% for item in paginationPrev %}
         <div class="work-pagination__items__prev">

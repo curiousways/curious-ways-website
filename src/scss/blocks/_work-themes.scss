@@ -25,6 +25,11 @@
 
   .work-gallery__heading {
     background-color: $color;
+
+    a {
+      border-bottom: 1px solid #fff;
+      text-decoration: none;
+    }
   }
 
   .work-pagination__items {
@@ -37,6 +42,26 @@
 }
 
 .theme {
+  &--show-windows {
+    @include theme(#0ca650);
+  }
+
+  &--design-age {
+    @include theme(#ff8282);
+  }
+
+  &--true {
+    @include theme(#ef856e);
+  }
+
+  &--hunger {
+    @include theme(#f58a5c);
+  }
+
+  &--rhize {
+    @include theme(#42e5a1);
+  }
+
   &--zenden {
     @include theme(#7760f8);
   }

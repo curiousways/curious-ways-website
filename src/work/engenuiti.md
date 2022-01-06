@@ -1,7 +1,7 @@
 ---
 title: "Engenuiti"
 metaDesc: "We helped Engenuiti celebrate their 10th anniversary with new branding and website."
-displayOrder: 4
+displayOrder: 7
 bodyClass: "theme--engenuiti"
 workTitle: "Engenuiti"
 workSummary: "We helped this firm of structural and civil engineers celebrate their 10th anniversary with new branding and website."
@@ -19,21 +19,19 @@ servicesList:
   - service: "Photography"
   - service: "Powerpoint templates"
   - service: "Print & digital design"
-  - service: "Website design & build"
+  - service: "Craft CMS Design"
+  - service: "Website build"
 gallery:
-  - title: "Branding"
-    imageRectangle: "v1614438777/cwys_website/Engenuiti_portfolio_rectangle_1_xdyxyo"
+  - imageRectangle: "v1614438777/cwys_website/Engenuiti_portfolio_rectangle_1_xdyxyo"
     imageSquare: "v1614438834/cwys_website/Engenuiti_portfolio_square_1_zrfquh"
-  - title: "Website Design"
-    imageRectangle: "v1614438795/cwys_website/Engenuiti_portfolio_rectangle_2_ymzimg"
+  - imageRectangle: "v1614438795/cwys_website/Engenuiti_portfolio_rectangle_2_ymzimg"
     imageSquare: "v1614438855/cwys_website/Engenuiti_portfolio_square_2_HERO_h0dajb"
-  - title: "Print Design & Photography"
-    imageRectangle: "v1614438814/cwys_website/Engenuiti_portfolio_rectangle_3_kpqkc9"
+  - imageRectangle: "v1614438814/cwys_website/Engenuiti_portfolio_rectangle_3_kpqkc9"
     imageSquare: "v1614438877/cwys_website/Engenuiti_portfolio_square_3_m7awsc"
 paginationPrev:
-  - prevLink: "/work/regenerative-pathways/"
-    prevTitle: "Regenerative Pathways"
+  - prevLink: "/work/notion/"
+    prevTitle: "Notion"
 paginationNext:
-  - nextLink: "/work/pickups/"
-    nextTitle: "Pickups"
+  - nextLink: "/work/zenden/"
+    nextTitle: "Zenden"
 ---
