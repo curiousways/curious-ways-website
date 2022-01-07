@@ -13,13 +13,11 @@ hero:
   image: "v1614440265/cwys_website/notion_portfolio_square_v1_hero_lgnqjk"
   imageAlt: "Notion"
 servicesList:
-  - service: "Art Direction"
-  - service: "Branding"
-  - service: "Brand strategy"
-  - service: "Illustration"
-  - service: "Print design"
+  - service: "UX Strategy"
+  - service: "UI Design"
   - service: "Wordpress CMS Design"
   - service: "Website build"
+  - service: "Ongoing Development"
 gallery:
   - imageRectangle: "v1614440131/cwys_website/notion_portfolio_rectangle_v1_neuws2"
     imageSquare: "v1614440265/cwys_website/notion_portfolio_square_v1_hero_lgnqjk"

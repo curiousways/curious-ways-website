@@ -1,7 +1,7 @@
 ---
 title: "Our greatest asset"
 layout: "layouts/people.njk"
-metaDesc: "We are a people business, at the heart of which are four partners"
+metaDesc: "Our people are our only asset"
 ---
 
-Actually, our only asset. We're a people business, at the heart of which are the team:
+Remember when companies used to say "our people are our greatest asset" without irony? Well our people are our only asset, so irony would be wasted on us.
