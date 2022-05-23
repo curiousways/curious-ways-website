@@ -1,0 +1,16 @@
+{% extends "layouts/base.njk" %}
+
+{% set pageHeaderTitle = title %}
+{% set pageHeaderSummary = summary %}
+
+{% block content %}
+
+  {% include "partials/page-header.njk" %} 
+
+  <div class="wrapper [ gap-bottom-800 ]">
+    <div class="flow flow-space-300 measure-long">
+      {{ content | safe }}
+    </div>
+  </div>
+
+{% endblock %}

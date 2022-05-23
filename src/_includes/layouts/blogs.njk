@@ -1,0 +1,12 @@
+{% extends "layouts/base.njk" %}
+
+{% set pageHeaderTitle = title %}
+{% set pageHeaderSummary = content %}
+{% set blogItems = collections.blog %} 
+
+{% block content %}
+<article>
+  {% include "partials/page-header.njk" %} 
+  {% include "partials/blog-list.njk" %}
+</article>
+{% endblock %}

@@ -1,0 +1,35 @@
+<div class="wrapper animate__animated animate__fadeIn">
+  {% if postListHeadline %}
+    <h2 class="[ headline gap-bottom-600 ]">
+      {{ postListHeadline }}
+    </h2>
+  {% endif %}  
+  <article class="[ grid-listing ]">
+    {% for item in blogItems %}
+    <figure class="[ grid-listing__item ] [ flow ]">
+      <div class="[ grid-listing__media ]">
+        <a
+          href="{{ item.url }}"
+          aria-label="See {{ item.data.title }}"
+        >
+          {% include "partials/preview-img.njk" %}
+        </a>
+      </div>
+      <figcaption class="[ grid-listing__content ] [ flow ]">
+        <h2 class="[ grid-listing__heading text-500 ]">
+          {{ item.data.title }}
+        </h2>
+        <p class="[ grid-listing__summary ] [ measure-short ]">
+          {{ item.data.summary|safe }}
+        </p>
+      </figcaption>
+      <div class="grid-listing__link">
+        {% set linkURL= item.url %}
+        {% set linkText = "View Article" %}
+        {% set linkClass = "font-header-med text-500" %}
+        {% include "partials/link.njk" %}
+      </div>
+    </figure>
+    {% endfor %}
+  </article>
+</div>

@@ -1,4 +1,5 @@
 ---
+tags: tech
 title: "Pickups"
 metaDesc: "We've supported this Brooklyn-based bootstrapped tech start-up from concept to capital raising."
 displayOrder: 10

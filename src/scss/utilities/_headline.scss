@@ -1,6 +1,6 @@
 .headline {
   font-size: get-size("500");
-  max-width: 18ch;
+  // max-width: 18ch;
 
   @include media-query("md") {
     font-size: get-size("600");

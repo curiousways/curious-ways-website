@@ -1,0 +1,12 @@
+{% extends "layouts/base.njk" %}
+
+{% set pageHeaderTitle = title %}
+{% set pageHeaderSummary = content %}
+{% set campaignItems = collections.campaigns %} 
+
+{% block content %}
+<article>
+  {% include "partials/page-header.njk" %} 
+  {% include "partials/campaigns-list.njk" %}
+</article>
+{% endblock %}

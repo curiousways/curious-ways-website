@@ -3,6 +3,7 @@
 {% set bodyClass = 'page-work-landing' %}
 {% set pageHeaderTitle = title %} 
 {% set pageHeaderSummary = content %} 
+{% set workItems = collections.work %} 
 
 {% block content %}
 
@@ -10,35 +11,6 @@
     {% include "partials/page-header.njk" %}
   </article>
 
-  <div class="wrapper animate__animated animate__fadeIn">
-    <article class="[ work-listing ]">
-      {% for item in collections.work %}
-      <figure class="[ work-listing__item ] [ flow ]">
-        <div class="[ work-listing__media ]">
-          <a
-            href="{{ item.url }}"
-            aria-label="See {{ item.data.title }}"
-          >
-            {% include "partials/work-img--landing.njk" %}
-          </a>
-        </div>
-        <figcaption class="[ work-listing__content ] [ flow ]">
-          <h2 class="[ work-listing__heading text-500 ]">
-            {{ item.data.workTitle }}
-          </h2>
-          <p class="[ work-listing__summary ] [ measure-short ]">
-            {{ item.data.workSummary|safe }}
-          </p>
-        </figcaption>
-        <div class="work-listing__link">
-          {% set linkURL= item.url %}
-          {% set linkText = "View Project" %}
-          {% set linkClass = "font-header-med text-500" %}
-          {% include "partials/link.njk" %}
-        </div>
-      </figure>
-      {% endfor %}
-    </article>
-  </div>
+  {% include "partials/work-list.njk" %}
 
 {% endblock %}

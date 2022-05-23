@@ -26,6 +26,16 @@ module.exports = (config) => {
     return sortByDisplayOrder(collection.getFilteredByGlob("./src/work/*.md"));
   });
 
+  // Returns campaign items, sorted by display order, filter to exclude featured item
+  config.addCollection("campaigns", (collection) => {
+    return sortByDisplayOrder(collection.getFilteredByGlob("./src/campaigns/*.md"));
+  });  
+
+  // Returns a collection of blog posts in reverse date order
+  config.addCollection("blogs", (collection) => {
+    return sortByDisplayOrder(collection.getFilteredByGlob("./src/posts/*.md"));
+  });  
+
   // Returns a list of people ordered by filename
   config.addCollection("people", (collection) => {
     return collection.getFilteredByGlob("./src/people/*.md").sort((a, b) => {

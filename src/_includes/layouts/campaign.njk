@@ -1,0 +1,37 @@
+{% extends "layouts/base.njk" %}
+
+{% set pageCriticalStyles = ['css/campaign.css', 'css/contact.css'] %}
+{% set pageHeaderTitle = title %}
+{% set blogItems = collections.blogs %} 
+{% set postListHeadline = "A window into our thoughts" %}
+{% set workItems = collections.tech %} 
+{% set workListHeadline = "Tech Branding Case Studies" %}
+
+{% block content %}
+
+  <article>
+
+    {% include "partials/page-header.njk" %}
+
+    <div class="wrapper [ gap-bottom-800 ]">
+      <div class="flow flow-space-300 measure-long">
+        {{ content | safe }}
+      </div>
+    </div>
+
+  {% include "partials/blog-list.njk" %}    
+
+  <div class="gap-top-900">
+    {% include "partials/work-list.njk" %}
+  </div>
+
+  </article>
+
+  <div class="gap-top-900">
+    {% set pageHeaderTitle = "Curious? Get in touch" %}
+    {% set pageHeaderSummary = "If there's anything we can do for you, or you can do for us, or even if you're just curious, we'd love to hear from you." %} 
+    {% include "partials/page-header.njk" %} 
+    {% include "partials/contacts.njk" %} 
+  </div>    
+
+{% endblock %}

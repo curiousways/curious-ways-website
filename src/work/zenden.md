@@ -1,4 +1,5 @@
 ---
+tags: tech
 title: "Zenden"
 metaDesc: "We helped this NY-based fintech start-up to get from concept to launch on a tight and immovable deadline."
 displayOrder: 9
