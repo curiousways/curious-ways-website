@@ -7,11 +7,8 @@ $outputTokenCSS: false;
 // Next: pull in gorko for design tokens
 @import "../../node_modules/gorko/gorko.scss";
 
-// Pull in blocks
-@import "blocks/grid-listing"; 
-
-.page-campaign {
-  .site-menu, .site-foot {
-    display: none;
-  }
-}
+// .page-blog {
+//   .site-menu, .site-foot {
+//     display: none; 
+//   }
+// }

@@ -1,5 +1,5 @@
 {% extends "layouts/base.njk" %}
-
+{% set bodyClass = 'page-campaign' %}
 {% set pageCriticalStyles = ['css/campaign.css', 'css/contact.css'] %}
 {% set pageHeaderTitle = title %}
 {% set blogItems = collections.blogs %} 
@@ -27,11 +27,6 @@
 
   </article>
 
-  <div class="gap-top-900">
-    {% set pageHeaderTitle = "Curious? Get in touch" %}
-    {% set pageHeaderSummary = "If there's anything we can do for you, or you can do for us, or even if you're just curious, we'd love to hear from you." %} 
-    {% include "partials/page-header.njk" %} 
-    {% include "partials/contacts.njk" %} 
-  </div>    
+  {% include "partials/contacts-simple.njk" %}    
 
 {% endblock %}

@@ -1,4 +1,6 @@
 {% extends "layouts/base.njk" %}
+{% set bodyClass = 'page-blog' %}
+{% set pageCriticalStyles = ['css/blog.css'] %}
 
 {% set pageHeaderTitle = title %}
 {% set pageHeaderSummary = summary %}
@@ -12,5 +14,7 @@
       {{ content | safe }}
     </div>
   </div>
+
+  {% include "partials/contacts-simple.njk" %}    
 
 {% endblock %}
