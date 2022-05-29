@@ -9,6 +9,15 @@ $outputTokenCSS: false;
 
 // .page-blog {
 //   .site-menu, .site-foot {
-//     display: none; 
+//     display: none;
 //   }
 // }
+
+.author {
+  display: flex;
+  align-items: center;
+
+  &__name {
+    margin-left: 5px;
+  }
+}

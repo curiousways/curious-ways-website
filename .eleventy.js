@@ -31,9 +31,9 @@ module.exports = (config) => {
     return sortByDisplayOrder(collection.getFilteredByGlob("./src/campaigns/*.md"));
   });  
 
-  // Returns a collection of blog posts in reverse date order
+  // Returns a collection of blog posts 
   config.addCollection("blogs", (collection) => {
-    return sortByDisplayOrder(collection.getFilteredByGlob("./src/posts/*.md"));
+    return sortByDisplayOrder(collection.getFilteredByGlob("./src/blogs/*.md"));
   });  
 
   // Returns a list of people ordered by filename
