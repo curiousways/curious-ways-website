@@ -4,7 +4,7 @@ hero:
   image: "v1653646541/cwys_website/01_Campaign_Brand_Article_SML"
   imageAlt: "5 ways tech brands are different from other brands"
 articleImg: "https://res.cloudinary.com/curiousways/image/upload/c_scale,w_1340/v1653646540/cwys_website/01_Campaign_Brand_Article_LRG.jpg"
-summary: "They’re not."
+summary: "Without technology, art is impossible. Without art, technology is pointless. Discuss..."
 authorName: "Simon Wellings"
 authorImg: "https://res.cloudinary.com/curiousways/image/upload/c_scale,w_30/v1614419667/cwys_website/simon_portrait_website_hr1qn4.png"
 date: "2022-05-29"

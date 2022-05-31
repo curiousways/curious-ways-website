@@ -4,7 +4,7 @@ hero:
   image: "v1653648182/cwys_website/02_Campaign_Article_Dev_Large_uv605w"
   imageAlt: "The art of development"
 articleImg: "https://res.cloudinary.com/curiousways/image/upload/v1653648182/cwys_website/02_Campaign_Article_Dev_LRG_qrk3hr.png"
-summary: "There’s a reason why businesses don’t get their web developers to design their brand – or their branding agency to build their website. The two disciplines are like chalk and toothache – not even in the same categorical ballpark... right?"
+summary: "What is it about technology that demands a unique approach to brand design? The answer will amaze you."
 authorName: "Simon Wellings"
 authorImg: "https://res.cloudinary.com/curiousways/image/upload/c_scale,w_30/v1614419667/cwys_website/simon_portrait_website_hr1qn4.png"
 date: "2022-05-29"
