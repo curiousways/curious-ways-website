@@ -1,7 +1,7 @@
 ---
 title: "Reset"
 metaDesc: "We worked with the All-Party Parliamentary Group to build a brand and website"
-displayOrder: 11
+displayOrder: 14
 bodyClass: "theme--reset"
 workTitle: "Reset"
 workSummary: "We worked with the All Party Parliamentary Group on the Green New Deal to explore the social impact of the 2020-21 lockdowns. We created the Reset brand and a suite of print and digital materials, website and manifesto and helped to produce a series of national surveys, online events, policy documents and campaigns."
@@ -34,6 +34,6 @@ paginationPrev:
   - prevLink: "/work/pickups/"
     prevTitle: "Pickups"
 paginationNext:
-  - nextLink: "/work/true/"
-    nextTitle: "True Capital"
+  - nextLink: "/work/xignal/"
+    nextTitle: "Xignal"
 ---

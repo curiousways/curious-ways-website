@@ -1,7 +1,7 @@
 ---
 title: "The Show Windows"
 metaDesc: "We produced the overarching brand design, motion graphics and site-specific artworking for this ongoing series of pop-up exhibitions by artists, designers, architects and makers, part of Coventry UK City of Culture 2021."
-displayOrder: 3
+displayOrder: 6
 bodyClass: "theme--show-windows"
 workTitle: "The Show Windows"
 workSummary: "We produced the overarching brand design, motion graphics and site-specific artworking for this ongoing series of pop-up exhibitions by artists, designers, architects and makers, part of Coventry UK City of Culture 2021."

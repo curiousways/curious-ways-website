@@ -1,7 +1,7 @@
 ---
 title: "Rhize"
 metaDesc: "Rhize is a specialist investment fund for developers and managers of student accommodation. Working with US and UK joint venture partners, we gave it a name, created its brand and built it a website – all in less than six weeks."
-displayOrder: 6
+displayOrder: 9
 bodyClass: "theme--rhize"
 workTitle: "Rhize"
 workSummary: "Rhize is a specialist investment fund for developers and managers of student accommodation. Working with US and UK joint venture partners, we gave it a name, created its brand and built it a website – all in less than six weeks."

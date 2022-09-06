@@ -1,7 +1,7 @@
 ---
 title: "Notion"
 metaDesc: "We helped to double Notion's online readership in less than a year."
-displayOrder: 7
+displayOrder: 10
 bodyClass: "theme--notion"
 workTitle: "Notion"
 workSummary: "We re-launched Notion’s digital offerings. Helping to double their online readership in less than a year."

@@ -1,14 +1,14 @@
 ---
 title: "Savi"
 metaDesc: "We created the name and visual identity for savi, formerly the UK and European division of US marketing services giant Valassis Communications. Our brief was to leverage the company's heritageand signal its future as a data-driven technology partner."
-displayOrder: 1
+displayOrder: 2
 bodyClass: "theme--savi"
 workTitle: "Savi"
 workSummary: "We created the name and visual identity for savi, formerly the UK and European division of US marketing services giant Valassis Communications. Our brief was to leverage the company's heritageand signal its future as a data-driven technology partner."
 workURL: "https://saviuk.co.uk/"
 workWeb: "saviuk.co.uk"
 hero:
-  image: "v1662450867/cwys_website/01_savi_work_sml_uh1csx"
+  image: "v1662450869/cwys_website/05_savi_work_sml_ek233t"
   imageAlt: "Savi"
 servicesList:
   - service: "Naming"
@@ -35,6 +35,6 @@ paginationPrev:
   - prevLink: "/work/xignal/"
     prevTitle: "Xignal"
 paginationNext:
-  - nextLink: "/work/true/"
-    nextTitle: "True"
+  - nextLink: "/work/fitzwilliam-dunne/"
+    nextTitle: "Fitzwilliam Dunne"
 ---

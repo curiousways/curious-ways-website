@@ -1,7 +1,7 @@
 ---
 title: "Hunger"
 metaDesc: "We designed and built HUNGER TV, the media-rich digital expression of Rankin's biannual culture and fashion magazine, building the CMS from scratch to meet the needs of a fast-paced creative publisher."
-displayOrder: 5
+displayOrder: 8
 bodyClass: "theme--hunger"
 workTitle: "Hunger"
 workSummary: "We designed and built HUNGER TV, the media-rich digital expression of Rankin's biannual culture and fashion magazine, building the CMS from scratch to meet the needs of a fast-paced creative publisher."

@@ -2,7 +2,7 @@
 tags: tech
 title: "Zenden"
 metaDesc: "We helped this NY-based fintech start-up to get from concept to launch on a tight and immovable deadline."
-displayOrder: 9
+displayOrder: 12
 bodyClass: "theme--zenden"
 workTitle: "Zenden"
 workSummary: "We helped this NY-based fintech start-up to get from concept to launch on a tight and immovable deadline, delivering everything from brand strategy to sales decks in a little over ten weeks."

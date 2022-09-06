@@ -42,6 +42,14 @@
 }
 
 .theme {
+  &--argus {
+    @include theme(#1d86cc);
+  }
+
+  &--fitz {
+    @include theme(#faa37e);
+  }
+
   &--savi {
     @include theme(#244b4f);
   }
