@@ -29,7 +29,10 @@ gallery:
   - imageRectangle: "v1662450451/cwys_website/05_savi_work_lrg_lndlmd"
     imageSquare: "v1662450869/cwys_website/05_savi_work_sml_ek233t"  
 
+paginationPrev:
+  - prevLink: "/work/xignal/"
+    prevTitle: "Xignal"
 paginationNext:
-  - nextLink: "/work/xignal/"
-    nextTitle: "Xignal"
+  - nextLink: "/work/true/"
+    nextTitle: "True"
 ---

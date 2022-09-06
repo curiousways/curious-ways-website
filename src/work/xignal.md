@@ -34,10 +34,7 @@ gallery:
   - imageRectangle: "v1662449264/cwys_website/06_xignal_work_lrg_qj0k6g"
     imageSquare: "v1662448935/cwys_website/06_xignal_work_sml_lazl3f"    
 
-paginationPrev:
-  - prevLink: "/work/savi/"
-    prevTitle: "Savi"
 paginationNext:
-  - nextLink: "/work/true/"
-    nextTitle: "True"
+  - nextLink: "/work/savi/"
+    nextTitle: "Savi"
 ---

@@ -29,8 +29,8 @@ gallery:
     imageSquare: "v1641411717/cwys_website/05_True_work_sml_iktsrv"
 
 paginationPrev:
-  - prevLink: "/work/xignal/"
-    prevTitle: "Xignal"
+  - prevLink: "/work/savi/"
+    prevTitle: "Savi"
 paginationNext:
   - nextLink: "/work/the-show-windows/"
     nextTitle: "The Show Windows"
