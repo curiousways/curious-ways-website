@@ -1,10 +1,10 @@
 ---
 title: "Xignal"
-metaDesc: ""
+metaDesc: "We were tasked with creating a name, strategy, identity and website to showcase a new SaaS product for a long term client. "
 displayOrder: 1
 bodyClass: "theme--xignal"
 workTitle: "Xignal"
-workSummary: ""
+workSummary: "We were tasked with creating a name, strategy, identity and website to showcase a new SaaS product for a long term client. "
 workURL: "https://xignal-s1000d.com/"
 workWeb: "xignal-s1000d.com"
 workQuote: "The amazing creativity that was always apparent in all aspects of the work presented to us. Also the team's willingness to go the extra mile. From day one, the team had a rapid grasp of the solution we were launching, the audience and the industry (which is pretty impressive given the niche nature and complexity of our B2B offerings)"

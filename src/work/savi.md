@@ -1,10 +1,10 @@
 ---
 title: "Savi"
-metaDesc: ""
+metaDesc: "We created the name and visual identity for savi, formerly the UK and European division of US marketing services giant Valassis Communications. Our brief was to leverage the company's heritageand signal its future as a data-driven technology partner."
 displayOrder: 1
 bodyClass: "theme--savi"
 workTitle: "Savi"
-workSummary: ""
+workSummary: "We created the name and visual identity for savi, formerly the UK and European division of US marketing services giant Valassis Communications. Our brief was to leverage the company's heritageand signal its future as a data-driven technology partner."
 workURL: "https://saviuk.co.uk/"
 workWeb: "saviuk.co.uk"
 hero:
@@ -12,11 +12,13 @@ hero:
   imageAlt: "Savi"
 servicesList:
   - service: "Naming"
-  - service: "Brand Design"
+  - service: "Brand Strategy"
+  - service: "Brand Design"  
   - service: "UX Design"
   - service: "UI Design"
   - service: "Wordpress CMS Design"
   - service: "Website Build"
+
 gallery:
   - imageRectangle: "v1662450451/cwys_website/01_savi_work_lrg_s30n26"
     imageSquare: "v1662450867/cwys_website/01_savi_work_sml_uh1csx"
