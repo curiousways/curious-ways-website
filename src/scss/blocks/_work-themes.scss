@@ -42,6 +42,14 @@
 }
 
 .theme {
+  &--savi {
+    @include theme(#224b50);
+  }
+
+  &--xignal {
+    @include theme(#190c45);
+  }
+
   &--show-windows {
     @include theme(#0ca650);
   }

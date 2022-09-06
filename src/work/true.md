@@ -1,7 +1,7 @@
 ---
 title: "True Capital"
 metaDesc: "We created a media-rich, motion-oriented website for the UK’s leading brand-focused investment and consulting firms. Designed to live, breathe and grow alongside True's stellar portfolio, the site showcases the beautiful brand work of Friendly Giants."
-displayOrder: 1
+displayOrder: 2
 bodyClass: "theme--true"
 workTitle: "True Capital"
 workSummary: "We created a media-rich, motion-oriented website for the UK’s leading brand-focused investment and consulting firms. Designed to live, breathe and grow alongside True's stellar portfolio, the site showcases the beautiful brand work of <a href='https://friendlygiants.com/' target='_blank' rel='noopener'>Friendly Giants</a>."
@@ -28,6 +28,9 @@ gallery:
   - imageRectangle: "v1641411718/cwys_website/05_True_work_lrg_do3bcl"
     imageSquare: "v1641411717/cwys_website/05_True_work_sml_iktsrv"
 
+paginationPrev:
+  - prevLink: "/work/xignal/"
+    prevTitle: "Xignal"
 paginationNext:
   - nextLink: "/work/the-show-windows/"
     nextTitle: "The Show Windows"
