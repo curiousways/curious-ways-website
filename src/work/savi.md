@@ -8,7 +8,7 @@ workSummary: "We created the name and visual identity for savi, formerly the UK 
 workURL: "https://saviuk.co.uk/"
 workWeb: "saviuk.co.uk"
 hero:
-  image: "v1662450869/cwys_website/05_savi_work_sml_ek233t"
+  image: "v1662495668/cwys_website/05_savi_work_sml_ek233t_swe4m1"
   imageAlt: "Savi"
 servicesList:
   - service: "Naming"
@@ -29,7 +29,7 @@ gallery:
   - imageRectangle: "v1662450451/cwys_website/04_savi_work_lrg_jga1fc"
     imageSquare: "v1662450868/cwys_website/04_savi_work_sml_iexuwj"
   - imageRectangle: "v1662450451/cwys_website/05_savi_work_lrg_lndlmd"
-    imageSquare: "v1662450869/cwys_website/05_savi_work_sml_ek233t"  
+    imageSquare: "v1662495668/cwys_website/05_savi_work_sml_ek233t_swe4m1"  
 
 paginationPrev:
   - prevLink: "/work/xignal/"
