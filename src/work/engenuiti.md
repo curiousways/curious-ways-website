@@ -1,7 +1,7 @@
 ---
 title: "Engenuiti"
 metaDesc: "We helped Engenuiti celebrate their 10th anniversary with new branding and website."
-displayOrder: 11
+displayOrder: 12
 bodyClass: "theme--engenuiti"
 workTitle: "Engenuiti"
 workSummary: "We helped this firm of structural and civil engineers celebrate their 10th anniversary with new branding and website."

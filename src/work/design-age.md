@@ -1,7 +1,7 @@
 ---
 title: "Design Age"
 metaDesc: "We produced the branding and website for the Design Age Institute, a joint venture between The Royal College of Art, The Design Museum, Oxford University and Research England, forming the UK’s national strategic unit for design and the healthy ageing economy."
-displayOrder: 7
+displayOrder: 8
 bodyClass: "theme--design-age"
 workTitle: "Design Age"
 workSummary: "We produced the branding and website for the Design Age Institute, a joint venture between The Royal College of Art, The Design Museum, Oxford University and Research England, forming the UK’s national strategic unit for design and the healthy ageing economy."

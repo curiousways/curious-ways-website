@@ -1,7 +1,7 @@
 ---
 title: "Xignal"
 metaDesc: "We were tasked with creating a name, strategy, identity and website to showcase a new SaaS product for a long term client. "
-displayOrder: 1
+displayOrder: 2
 bodyClass: "theme--xignal"
 workTitle: "Xignal"
 workSummary: "We were tasked with creating a name, strategy, identity and website to showcase a new SaaS product for a long term client. "
@@ -27,13 +27,16 @@ gallery:
     imageSquare: "v1662448936/cwys_website/02_xignal_work_sml_lt4vju"
   - imageRectangle: "v1662484654/cwys_website/03_xignal_work_lrg_p7jitf"
     imageSquare: "v1662448936/cwys_website/03_xignal_work_sml.jpg_pt9ojk"
-  - imageRectangle: "v1662484654/cwys_website/04_xignal_work_lrg_mhd1ms"
-    imageSquare: "v1662448936/cwys_website/04_xignal_work_sml_kmqwiv"
+  - imageRectangle: "v1662581000/cwys_website/04_xignal_work_lrg_iuvvez"
+    imageSquare: "v1662580998/cwys_website/04_xignal_work_sml_wqz309"
   - imageRectangle: "v1662449264/cwys_website/05_xignal_work_lrg_tvg9c5"
     imageSquare: "v1662448936/cwys_website/05_xignal_work_sml_pk6is4"
   - imageRectangle: "v1662449264/cwys_website/06_xignal_work_lrg_qj0k6g"
     imageSquare: "v1662448935/cwys_website/06_xignal_work_sml_lazl3f"    
 
+paginationPrev:
+  - prevLink: "/work/bale-ale/"
+    prevTitle: "Bale Ale"
 paginationNext:
   - nextLink: "/work/savi/"
     nextTitle: "Savi"

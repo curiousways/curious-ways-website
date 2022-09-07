@@ -2,7 +2,7 @@
 tags: tech
 title: "Pickups"
 metaDesc: "We've supported this Brooklyn-based bootstrapped tech start-up from concept to capital raising."
-displayOrder: 13
+displayOrder: 14
 bodyClass: "theme--pickups"
 workTitle: "Pickups"
 workSummary: "We've supported this Brooklyn-based bootstrapped tech start-up from concept to capital raising, creating a stand-out brand with compelling messaging to drive interest from customers, partners and the Venture Capital community."

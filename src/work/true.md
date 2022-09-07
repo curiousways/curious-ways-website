@@ -1,7 +1,7 @@
 ---
 title: "True Capital"
 metaDesc: "We created a media-rich, motion-oriented website for the UK’s leading brand-focused investment and consulting firms. Designed to live, breathe and grow alongside True's stellar portfolio, the site showcases the beautiful brand work of Friendly Giants."
-displayOrder: 5
+displayOrder: 6
 bodyClass: "theme--true"
 workTitle: "True Capital"
 workSummary: "We created a media-rich, motion-oriented website for the UK’s leading brand-focused investment and consulting firms. Designed to live, breathe and grow alongside True's stellar portfolio, the site showcases the beautiful brand work of <a href='https://friendlygiants.com/' target='_blank' rel='noopener'>Friendly Giants</a>."

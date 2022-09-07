@@ -1,7 +1,7 @@
 ---
 title: "Savi"
 metaDesc: "We created the name and visual identity for savi, formerly the UK and European division of US marketing services giant Valassis Communications. Our brief was to leverage the company's heritageand signal its future as a data-driven technology partner."
-displayOrder: 2
+displayOrder: 3
 bodyClass: "theme--savi"
 workTitle: "Savi"
 workSummary: "We created the name and visual identity for savi, formerly the UK and European division of US marketing services giant Valassis Communications. Our brief was to leverage the company's heritageand signal its future as a data-driven technology partner."

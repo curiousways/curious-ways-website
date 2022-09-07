@@ -1,7 +1,7 @@
 ---
 title: "Argus Annual Report"
 metaDesc: "We worked with our good friends at Neverland to turn the Annual Argus printed report into an immersive online experience."
-displayOrder: 4
+displayOrder: 5
 bodyClass: "theme--argus"
 workTitle: "Argus Annual Report"
 workSummary: "We worked with our good friends at Neverland to turn the Annual Argus printed report into an immersive online experience."

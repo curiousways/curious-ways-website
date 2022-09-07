@@ -42,6 +42,9 @@
 }
 
 .theme {
+  &--bale {
+    @include theme(#c23330);
+  }
   &--argus {
     @include theme(#1d86cc);
   }

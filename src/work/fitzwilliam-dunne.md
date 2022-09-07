@@ -1,7 +1,7 @@
 ---
 title: "Fitzwilliam Dunne"
 metaDesc: "Fitzwilliam Dunne approached us to give their boutique consulting business a fitting brand and website to launch them into the world of alternative investment"
-displayOrder: 3
+displayOrder: 4
 bodyClass: "theme--fitz"
 workTitle: "Fitzwilliam Dunne"
 workSummary: "Fitzwilliam Dunne approached us to give their boutique consulting business a fitting brand and website to launch them into the world of alternative investment"
@@ -25,8 +25,8 @@ gallery:
     imageSquare: "v1662482582/cwys_website/01_Fitzwilliam_work_sml_vnmies"
   - imageRectangle: "v1662482042/cwys_website/02_Fitzwilliam_work_lrg_htjiuj"
     imageSquare: "v1662482582/cwys_website/02_Fitzwilliam_work_sml_thwkqn"
-  - imageRectangle: "v1662482046/cwys_website/03_Fitzwilliam_work_lrg_kifs1y"
-    imageSquare: "v1662482583/cwys_website/03_Fitzwilliam_work_sml_mp5jps"
+  - imageRectangle: "v1662580794/cwys_website/03_Fitzwilliam_work_lrg_c7sr3x" 
+    imageSquare: "v1662580791/cwys_website/03_Fitzwilliam_work_sml_yzz2ha"
   - imageRectangle: "v1662482047/cwys_website/04_Fitzwilliam_work_lrg_lqbhys"
     imageSquare: "v1662482583/cwys_website/04_Fitzwilliam_work_sml_mbshxq"
 
