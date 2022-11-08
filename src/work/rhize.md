@@ -1,19 +1,17 @@
 ---
 title: "Rhize"
-metaDesc: "Rhize is a specialist investment fund for developers and managers of student accommodation. Working with US and UK joint venture partners, we gave it a name, created its brand and built it a website – all in less than six weeks."
+metaDesc: "Rhize is a specialist investment fund for developers and managers of student accommodation. Working with US and UK joint venture partners, we designed & built it a website."
 displayOrder: 10
 bodyClass: "theme--rhize"
 workTitle: "Rhize"
-workSummary: "Rhize is a specialist investment fund for developers and managers of student accommodation. Working with US and UK joint venture partners, we gave it a name, created its brand and built it a website – all in less than six weeks."
+workSummary: "Rhize is a specialist investment fund for developers and managers of student accommodation. Working with US and UK joint venture partners, we designed & built it a website."
 workURL: "https://rhizecapital.com/"
 workWeb: "rhizecapital.com"
 hero:
   image: "v1639681775/cwys_website/rhize_feature_jx2e5e"
   imageAlt: "Rhize"
 servicesList:
-  - service: "Naming"
-  - service: "Brand Design"
-  - service: "Tone of Voice"
+  - service: "UX Design"
   - service: "UI Design"
   - service: "Wordpress CMS Design"
   - service: "Website Build"

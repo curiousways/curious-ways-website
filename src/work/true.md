@@ -32,6 +32,6 @@ paginationPrev:
   - prevLink: "/work/argus-annual-report/"
     prevTitle: "Argus Annual Report"
 paginationNext:
-  - nextLink: "/work/the-show-windows/"
-    nextTitle: "The Show Windows"
+  - nextLink: "/work/design-age/"
+    nextTitle: "Design Age"
 ---

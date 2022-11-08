@@ -11,8 +11,6 @@ hero:
   image: "v1641387340/cwys_website/dai_feature_xio8ie"
   imageAlt: "Design Age"
 servicesList:
-  - service: "Brand Strategy"
-  - service: "Brand Design"
   - service: "UX Design"
   - service: "UI Design"
   - service: "Wordpress CMS Design"
@@ -32,8 +30,8 @@ gallery:
     imageSquare: "v1641387340/cwys_website/05_dai_work_sml_uln5qu"
 
 paginationPrev:
-  - prevLink: "/work/the-show-windows/"
-    prevTitle: "The Show Windows"
+  - prevLink: "/work/true/"
+    prevTitle: "True"
 paginationNext:
   - nextLink: "/work/hunger/"
     nextTitle: "Hunger"

@@ -14,6 +14,8 @@ servicesList:
   - service: "UX Design"
   - service: "UI Design"
   - service: "Website Build"
+  - service: "Next.js"  
+  - service: "Vercel"
 
 gallery:
   - imageRectangle: "v1662483639/cwys_website/01_Argus_work_lrg_puojd4"
