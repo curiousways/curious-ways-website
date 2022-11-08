@@ -5,7 +5,7 @@ metaDesc: "We've supported this Brooklyn-based bootstrapped tech start-up from c
 displayOrder: 14
 bodyClass: "theme--pickups"
 workTitle: "Pickups"
-workSummary: "We've supported this Brooklyn-based bootstrapped tech start-up from concept to capital raising, creating a stand-out brand with compelling messaging to drive interest from customers, partners and the Venture Capital community."
+workSummary: "We've supported this Brooklyn-based bootstrapped tech start-up from concept to capital raising, creating a stand-out website with compelling messaging to drive interest from customers, partners and the Venture Capital community."
 workQuote: "Curious Ways joined our journey early on and made us feel like they were enduring the long nights with us. They bring high energy, vast imagination, humility, and open mindedness to all creative discussions. Even beyond creativity, Curious Ways helps you to find your 'why' by guiding you into further discovery and by asking the right questions. No traditional firm would've taken such an approach."
 workQuoteSource: "Gabriel Cepeda, CEO"
 workURL: "https://www.usepickups.com"
