@@ -10,7 +10,7 @@ workQuoteSource: "Ruth Potts, Secretariat to the APPG"
 workURL: "https://reset-uk.org"
 workWeb: "reset-uk.org"
 hero:
-  image: "v1615101461/cwys_website/Reset_portfolio_pages_square_4_HERO_ylmeaq"
+  image: "v1615101452/cwys_website/Reset_portfolio_pages_square_3_gjhjyz"
   imageAlt: "Reset"
 servicesList:
   - service: "UX Design"

@@ -8,7 +8,7 @@ workSummary: "Rhize is a specialist investment fund for developers and managers 
 workURL: "https://rhizecapital.com/"
 workWeb: "rhizecapital.com"
 hero:
-  image: "v1639681775/cwys_website/rhize_feature_jx2e5e"
+  image: "v1639667769/cwys_website/02_rhize_work_small_msqozy"
   imageAlt: "Rhize"
 servicesList:
   - service: "UX Design"

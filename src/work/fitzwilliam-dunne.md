@@ -4,7 +4,7 @@ metaDesc: "Fitzwilliam Dunne approached us to give their boutique consulting bus
 displayOrder: 4
 bodyClass: "theme--fitz"
 workTitle: "Fitzwilliam Dunne"
-workSummary: "Fitzwilliam Dunne approached us to give their boutique consulting business a fitting brand and website to launch them into the world of alternative investment"
+workSummary: "Fitzwilliam Dunne approached us to give their boutique consulting business a website to launch them into the world of alternative investment"
 workQuote: "The professionalism, steer and assurance of a brilliant brand and design company who allowed me to think / consider things differently, enabling us to achieve an outstanding outcome. But most importantly its about the people at curious ways, such a pleasure to work with."
 workQuoteSource: "Chris Dunne, Founder"
 workURL: "https://www.fitzwilliamdunne.com/"

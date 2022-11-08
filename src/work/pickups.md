@@ -11,7 +11,7 @@ workQuoteSource: "Gabriel Cepeda, CEO"
 workURL: "https://www.usepickups.com"
 workWeb: "usepickups.com"
 hero:
-  image: "v1614439502/cwys_website/Pickups_portfolio_square_4_HERO_vjpb5l"
+  image: "v1614439428/cwys_website/Pickups_portfolio_square_2_blor4r"
   imageAlt: "Pickups"
 servicesList:
   - service: "UX Design"
