@@ -1,6 +1,6 @@
 ---
-title: "Builders of brands, makers of websites"
-metaDesc: "A creative partnership making human brands for a digital world"
+title: "Helping businesses build their digital worlds"
+metaDesc: "We believe in thinking differently, working hard and being nice to people"
 layout: "layouts/home.njk"
 home:
   intro: "<em>Hello.</em>"
